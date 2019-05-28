@@ -25,6 +25,9 @@
         <!--<item name="coordinatorLayoutStyle">@style/Widget.Design.CoordinatorLayout</item>-->
         <item name="android:statusBarColor">@android:color/transparent</item>
         <!--<item name="android:statusBarColor" tools:ignore="NewApi">@color/theme_primary_dark</item>-->
+        <item name="colorAccent">@color/theme_accent</item>
+        <item name="colorPrimary">@color/theme_primary</item>
+        <item name="colorPrimaryDark">@color/theme_primary_dark</item>
     </style>
 
 </resources>
